@@ -37,7 +37,7 @@ Izobraževanje je sestavljeno iz več manjših enot. Vsaka enota ima pripadajoč
 * [5 - Praktični primer 2: Vektorsko iskanje](5-Praktični_primer_2-Vektorsko_iskanje.ipynb)
     * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lhrs-workshops/noo-uonr/blob/main/5-Praktični_primer_2-Vektorsko_iskanje.ipynb)
     * uporaba knjižnic cuDF, cuML (TF-IDF, KMeans in t-SNE)
-* [Preverjanje znanja](https://classroom.github.com/)
+* [Preverjanje znanja](https://classroom.github.com/a/xg0RqECS)
 ---
 
 > Izobraževanje se izvaja v okviru pilotnega projekta UM FERI z naslovom "Razvoj prožnih učnih pristopov z mikrodokazili za digitalno in zeleno preobrazbo izobraževanja za prehod v Družbo 5.0", ki je del Načrta za okrevanje in odpornost (NOO).  
