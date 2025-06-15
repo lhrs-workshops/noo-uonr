@@ -23,19 +23,19 @@ Izobraževanje je sestavljeno iz več manjših enot. Vsaka enota ima pripadajoč
 
 * [0 - Priprava izvajalnega okolja](0-Priprava_izvajalnega_okolja.md) *(priporočamo uporabo [Google Colab](https://colab.research.google.com); CPE in GPE!*
 * [1 - NVIDIA RAPIDS, namestitev in dokumentacija](1-NVIDIA_RAPIDS_namestitev_in_dokumentacija.ipynb)
-    * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lhrs-workshops/uonr-eurocc/blob/main/1-NVIDIA_RAPIDS_namestitev_in_dokumentacija.ipynb)
+    * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lhrs-workshops/noo-uonr/blob/main/1-NVIDIA_RAPIDS_namestitev_in_dokumentacija.ipynb)
 
 * [2 - cuML in primerjava s scikit-learn](2-cuML_in_primerjava_s_scikit-learn.ipynb)
-    * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lhrs-workshops/uonr-eurocc/blob/main/2-cuML_in_primerjava_s_scikit-learn.ipynb)
+    * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lhrs-workshops/noo-uonr/blob/main/2-cuML_in_primerjava_s_scikit-learn.ipynb)
     * algoritmi RandomForest, KMeans in DBSCAN
 * [3 - cuGraph in primerjava z NetworkX](3-cuGraph_in_primerjava_z_NetworkX.ipynb)
-    * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lhrs-workshops/uonr-eurocc/blob/main/3-cuGraph_in_primerjava_z_NetworkX.ipynb)
+    * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lhrs-workshops/noo-uonr/blob/main/3-cuGraph_in_primerjava_z_NetworkX.ipynb)
     * algoritma PageRank in HITS
 * [4 - Praktični primer 1: Priporočanje filmov](4-Praktični_primer_1-Priporočanje_filmov.ipynb)
-    * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lhrs-workshops/uonr-eurocc/blob/main/4-Praktični_primer_1-Priporočanje_filmov.ipynb)
+    * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lhrs-workshops/noo-uonr/blob/main/4-Praktični_primer_1-Priporočanje_filmov.ipynb)
     * uporaba knjižnic cuDF in cuGraph (PageRank in HITS)
 * [5 - Praktični primer 2: Vektorsko iskanje](5-Praktični_primer_2-Vektorsko_iskanje.ipynb)
-    * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lhrs-workshops/uonr-eurocc/blob/main/5-Praktični_primer_2-Vektorsko_iskanje.ipynb)
+    * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lhrs-workshops/noo-uonr/blob/main/5-Praktični_primer_2-Vektorsko_iskanje.ipynb)
     * uporaba knjižnic cuDF, cuML (TF-IDF, KMeans in t-SNE)
 * [Preverjanje znanja](https://classroom.github.com/)
 ---
